@@ -11,4 +11,4 @@ The width of the bit length can be changed with _width variable. The _adj variab
 
 Lastly, the FixedPointErrorAnalysis.ipynb analyses the error between the Fixed Point Custom Instruction implementation and the IEEE 32-bit Floating-Point implementation. They are both compared to the higher accuracy IEEE 64-bit Floating Point, which is used in Matlab. 
 
-The processed data is then stored in .mat files which plot the data with Matlab software. 
+The processed data is then stored in .mat files which are plotted with Matlab software. 
